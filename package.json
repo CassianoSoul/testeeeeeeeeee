@@ -1,0 +1,8 @@
+{
+  "name": "alo-sac",
+  "version": "1.0.0",
+  "description": "Alô, SAC! Central do Caos: jogo de atendimento ao público com IA",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
